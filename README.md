@@ -1,4 +1,4 @@
-# FLO_CUSTOMER_LIFETIME_VALUE_PREDICTION
+# FLO CUSTOMER LIFETIME VALUE PREDICTION
 # BG-NBD ve Gamma-Gamma ile CLTV Prediction
 <img width="779" alt="image" src="https://user-images.githubusercontent.com/101832704/168425700-aad5d200-2700-45c0-a202-32d3ada0cbd0.png">
 
